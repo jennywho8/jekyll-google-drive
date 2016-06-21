@@ -27,7 +27,7 @@ author: SimonBiggs
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://churchsitedemo.simonbiggs.net'
+url: 'https://jennywho8.github.io/jekyll-google-drive'
 baseurl: ''
 
 google_sheet_id: '1f1QHvgeESZ6-Dv-tGunOyrbsG6Fwc1V7BN2i6ffXwBU'
